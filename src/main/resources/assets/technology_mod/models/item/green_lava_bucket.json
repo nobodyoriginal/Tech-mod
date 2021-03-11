@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "technology_mod:items/green_lava_bucket"
+  }
+}

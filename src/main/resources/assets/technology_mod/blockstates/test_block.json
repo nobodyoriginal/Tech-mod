@@ -1,0 +1,19 @@
+{
+	"variants": {
+		"facing=north": {
+			"model": "technology_mod:block/battery_block"
+		},
+		"facing=south": {
+			"model": "technology_mod:block/battery_block",
+			"y": 180
+		},
+		"facing=west": {
+			"model": "technology_mod:block/battery_block",
+			"y": 270
+		},
+		"facing=east": {
+			"model": "technology_mod:block/battery_block",
+			"y": 90
+		}
+	}
+}
